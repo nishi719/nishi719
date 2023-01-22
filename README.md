@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishi719&theme=radical&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi719&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
