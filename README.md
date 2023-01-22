@@ -1,4 +1,4 @@
- ![](https://media3.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=790b761146f76390185c3f2384058aee72fc7c963d38e835&rid=giphy.gif&ct=g)
+
  
 # 💫 About Me:
 🔭I'm currently pursuing Computer Science Engineering in NIT Srinagar.<br>🌱I'm currently learning Web technology & Data Structure and Algorithm.<br>💻I am an enthusiastic programmer always ready to learn new technologies.<br>⚡Fun Fact - Turns Coffee into Code
