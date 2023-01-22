@@ -1,6 +1,6 @@
-![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4714excxby1ca8goe2fgr3xoicr8hthb8wofqtl52k&rid=giphy.gif&ct=g)
+![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4714excxby1ca8goe2fgr3xoicr8hthb8wofqtl52k&rid=giphy.gif&ct=g width: 100%)
 
-# 🖐️ Hii , I'm Nishi Kumari.
+## 🖐️ Hii , I'm Nishi Kumari.
  
 # 💫 About Me:
 🔭I'm currently pursuing Computer Science Engineering in NIT Srinagar.<br>🌱I'm currently learning Web technology & Data Structure and Algorithm.<br>💻I am an enthusiastic programmer always ready to learn new technologies.<br>⚡Fun Fact - Turns Coffee into Code
