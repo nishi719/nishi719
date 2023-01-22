@@ -7,6 +7,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishi-kumari-802781238/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Nishi_kri) 
+[![](https://advisewp.com/wp-content/uploads/2021/08/How-to-Install-Localhost-WordPress-with-XAMPP-3-Steps.jpg)
 
 # 💻 Tech Stack:
 
