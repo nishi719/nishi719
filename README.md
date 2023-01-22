@@ -1,4 +1,4 @@
-
+# [![]("https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px")] Hii , I'm Nishi Kumari.
  
 # 💫 About Me:
 🔭I'm currently pursuing Computer Science Engineering in NIT Srinagar.<br>🌱I'm currently learning Web technology & Data Structure and Algorithm.<br>💻I am an enthusiastic programmer always ready to learn new technologies.<br>⚡Fun Fact - Turns Coffee into Code
