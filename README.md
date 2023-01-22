@@ -1,4 +1,4 @@
-![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4714excxby1ca8goe2fgr3xoicr8hthb8wofqtl52k&rid=giphy.gif&ct=g width: 100%)
+![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4714excxby1ca8goe2fgr3xoicr8hthb8wofqtl52k&rid=giphy.gif&ct=g )
 
 ## 🖐️ Hii , I'm Nishi Kumari.
  
