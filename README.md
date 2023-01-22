@@ -1,4 +1,4 @@
-[![](https://www.activistpost.com/wp-content/uploads/2020/02/technology-FM-1024x576-1.jpg)]
+
  
 # 💫 About Me:
 🔭I'm currently pursuing Computer Science Engineering in NIT Srinagar.<br>🌱I'm currently learning Web technology & Data Structure and Algorithm.<br>💻I am an enthusiastic programmer always ready to learn new technologies.<br>⚡Fun Fact - Turns Coffee into Code
