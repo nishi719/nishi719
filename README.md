@@ -1,7 +1,7 @@
 
 🔗 🖐️ Hii , I'm Nishi Kumari.
  
-🔗 ## 💫 About Me:
+🔗 💫 About Me:
 
 I am a student pursuing B.Tech in Computer Science Engineering , passionate about leveraging my skills, knowledge, and creativity to tackle complex challenges .I strive to make a positive impact through my work and constantly seek opportunities to expand my knowledge and skills in the ever-evolving field of computer science.
 
